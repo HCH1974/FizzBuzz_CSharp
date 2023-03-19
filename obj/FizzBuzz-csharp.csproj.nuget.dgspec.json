@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Training\\FizzBuzz-csharp\\FizzBuzz-csharp.csproj": {}
+    "C:\\Training\\FizzBuzzCSharp\\FizzBuzz-csharp.csproj": {}
   },
   "projects": {
-    "C:\\Training\\FizzBuzz-csharp\\FizzBuzz-csharp.csproj": {
+    "C:\\Training\\FizzBuzzCSharp\\FizzBuzz-csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Training\\FizzBuzz-csharp\\FizzBuzz-csharp.csproj",
+        "projectUniqueName": "C:\\Training\\FizzBuzzCSharp\\FizzBuzz-csharp.csproj",
         "projectName": "FizzBuzz-csharp",
-        "projectPath": "C:\\Training\\FizzBuzz-csharp\\FizzBuzz-csharp.csproj",
-        "packagesPath": "C:\\Users\\keqche\\.nuget\\packages\\",
-        "outputPath": "C:\\Training\\FizzBuzz-csharp\\obj\\",
+        "projectPath": "C:\\Training\\FizzBuzzCSharp\\FizzBuzz-csharp.csproj",
+        "packagesPath": "C:\\Users\\hanhuk\\.nuget\\packages\\",
+        "outputPath": "C:\\Training\\FizzBuzzCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\keqche\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\hanhuk\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     }

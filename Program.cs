@@ -183,12 +183,6 @@ for (var i=1; i<=number;i++){
 
 List<String>message=new List<string>{""};
 
-// if (rulesArray.Contains("3") &&((i % 3)== 0)) message.Add(rulesDictionary["3"]);
-// if (rulesArray.Contains("5") &&((i % 5)== 0)) message.Add("Buzz");
-// if (rulesArray.Contains("7") &&((i % 7)== 0)) message.Add("Bang");
-// if (rulesArray.Contains("11") &&((i % 11)== 0)) message.Add("Bong");
-// if (rulesArray.Contains("13") &&((i % 13)== 0)) message.Add("Fezz");
-
     for (var j =0; j<rulesArray.Length;j++) {
         if (rulesDictionary.ContainsKey(rulesArray[j]) && i % int.Parse(rulesArray[j])==0)
     {
